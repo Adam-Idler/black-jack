@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "./static/css/main.e6c13ad2.css",
-    "main.js": "./static/js/main.5ae82c32.js",
+    "main.js": "./static/js/main.f8608012.js",
     "static/media/cardShirt.png": "./static/media/cardShirt.dd29ddb3fd921931548f.png",
     "static/media/RobotoMono-Regular.woff": "./static/media/RobotoMono-Regular.ca7e14bfa3883fd6d0da.woff",
     "static/media/RobotoMono-Regular.woff2": "./static/media/RobotoMono-Regular.59b66259dbbfa5635a0b.woff2",
     "index.html": "./index.html",
     "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
-    "main.5ae82c32.js.map": "./static/js/main.5ae82c32.js.map"
+    "main.f8608012.js.map": "./static/js/main.f8608012.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5ae82c32.js"
+    "static/js/main.f8608012.js"
   ]
 }
